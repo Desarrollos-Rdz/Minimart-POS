@@ -1,0 +1,56 @@
+{
+  "productos": [
+    {
+      "id": "p001",
+      "codigo": "7501055300057",
+      "nombre": "Coca Cola 600ml",
+      "categoria": "Bebidas",
+      "subcategoria": "Refrescos",
+      "precio_compra": 10.00,
+      "precio_venta": 15.00,
+      "stock": 24,
+      "stock_minimo": 6,
+      "unidad": "pieza",
+      "activo": true,
+      "seccion": "abarrotes"
+    },
+    {
+      "id": "p002",
+      "codigo": "7501000903031",
+      "nombre": "Sabritas Original 45g",
+      "categoria": "Botanas",
+      "subcategoria": "Papas",
+      "precio_compra": 8.50,
+      "precio_venta": 13.00,
+      "stock": 30,
+      "stock_minimo": 10,
+      "unidad": "pieza",
+      "activo": true,
+      "seccion": "abarrotes"
+    },
+    {
+      "id": "p003",
+      "codigo": "FER001",
+      "nombre": "Foco LED 9W",
+      "categoria": "Iluminación",
+      "subcategoria": "Focos",
+      "precio_compra": 25.00,
+      "precio_venta": 45.00,
+      "stock": 12,
+      "stock_minimo": 3,
+      "unidad": "pieza",
+      "activo": true,
+      "seccion": "ferreteria"
+    }
+  ],
+  "categorias": {
+    "abarrotes": [
+      "Bebidas", "Botanas", "Lácteos", "Carnes frías",
+      "Abarrotes secos", "Dulces", "Panadería", "Limpieza", "Higiene personal"
+    ],
+    "ferreteria": [
+      "Iluminación", "Herramientas", "Plomería", "Electricidad",
+      "Pintura", "Adhesivos", "Pilas y baterías", "Varios"
+    ]
+  }
+}

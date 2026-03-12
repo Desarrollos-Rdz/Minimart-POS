@@ -1,0 +1,18 @@
+{
+  "tienda": {
+    "nombre": "Minimart POS",
+    "slogan": "Tu tienda de confianza",
+    "direccion": "",
+    "telefono": "",
+    "moneda": "MXN",
+    "simbolo": "$",
+    "ticket_pie": "¡Gracias por su compra! Vuelva pronto.",
+    "logo": null
+  },
+  "sistema": {
+    "version": "1.0.0",
+    "fecha_instalacion": "2025-01-01",
+    "tema": "claro",
+    "idioma": "es"
+  }
+}

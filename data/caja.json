@@ -1,0 +1,9 @@
+{
+  "cortes": [],
+  "caja_actual": {
+    "fondo_inicial": 500.00,
+    "fecha_apertura": null,
+    "abierta": false,
+    "usuario_apertura": null
+  }
+}
