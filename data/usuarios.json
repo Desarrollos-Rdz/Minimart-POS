@@ -1,1 +1,112 @@
-
+{
+  "usuarios": [
+    {
+      "id": "u001",
+      "nombre": "Administrador",
+      "usuario": "admin",
+      "password": "admin123",
+      "rol": "admin",
+      "activo": true,
+      "fecha_creacion": "2025-01-01",
+      "permisos": {
+        "ver_dashboard": true,
+        "ver_ventas": true,
+        "hacer_ventas": true,
+        "ver_inventario": true,
+        "editar_inventario": true,
+        "ver_caja": true,
+        "hacer_corte": true,
+        "ver_recargas": true,
+        "hacer_recargas": true,
+        "ver_usuarios": true,
+        "gestionar_usuarios": true,
+        "ver_reportes": true,
+        "configuracion": true
+      }
+    }
+  ],
+  "roles": {
+    "admin": {
+      "nombre": "Administrador",
+      "descripcion": "Acceso total al sistema",
+      "color": "#FF4B4B"
+    },
+    "supervisor": {
+      "nombre": "Supervisor",
+      "descripcion": "Ve reportes y dashboard, sin modificar",
+      "color": "#F0A500"
+    },
+    "cajero": {
+      "nombre": "Cajero",
+      "descripcion": "Solo punto de venta y su corte del día",
+      "color": "#00B4D8"
+    },
+    "almacenista": {
+      "nombre": "Almacenista",
+      "descripcion": "Solo gestión de inventario",
+      "color": "#4CAF50"
+    }
+  },
+  "permisos_por_rol": {
+    "admin": {
+      "ver_dashboard": true,
+      "ver_ventas": true,
+      "hacer_ventas": true,
+      "ver_inventario": true,
+      "editar_inventario": true,
+      "ver_caja": true,
+      "hacer_corte": true,
+      "ver_recargas": true,
+      "hacer_recargas": true,
+      "ver_usuarios": true,
+      "gestionar_usuarios": true,
+      "ver_reportes": true,
+      "configuracion": true
+    },
+    "supervisor": {
+      "ver_dashboard": true,
+      "ver_ventas": true,
+      "hacer_ventas": false,
+      "ver_inventario": true,
+      "editar_inventario": false,
+      "ver_caja": true,
+      "hacer_corte": false,
+      "ver_recargas": true,
+      "hacer_recargas": false,
+      "ver_usuarios": true,
+      "gestionar_usuarios": false,
+      "ver_reportes": true,
+      "configuracion": false
+    },
+    "cajero": {
+      "ver_dashboard": false,
+      "ver_ventas": true,
+      "hacer_ventas": true,
+      "ver_inventario": false,
+      "editar_inventario": false,
+      "ver_caja": true,
+      "hacer_corte": true,
+      "ver_recargas": true,
+      "hacer_recargas": true,
+      "ver_usuarios": false,
+      "gestionar_usuarios": false,
+      "ver_reportes": false,
+      "configuracion": false
+    },
+    "almacenista": {
+      "ver_dashboard": false,
+      "ver_ventas": false,
+      "hacer_ventas": false,
+      "ver_inventario": true,
+      "editar_inventario": true,
+      "ver_caja": false,
+      "hacer_corte": false,
+      "ver_recargas": false,
+      "hacer_recargas": false,
+      "ver_usuarios": false,
+      "gestionar_usuarios": false,
+      "ver_reportes": false,
+      "configuracion": false
+    }
+  }
+}
