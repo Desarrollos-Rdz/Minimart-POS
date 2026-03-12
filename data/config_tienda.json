@@ -2,16 +2,16 @@
   "tienda": {
     "nombre": "Minimart POS",
     "slogan": "Tu tienda de confianza",
-    "direccion": "",
-    "telefono": "",
+    "direccion": "Calle Hidalgo #142, Col. Centro",
+    "telefono": "8681234567",
     "moneda": "MXN",
     "simbolo": "$",
-    "ticket_pie": "¡Gracias por su compra! Vuelva pronto.",
+    "ticket_pie": "¡Gracias por su compra! Vuelva pronto 😊",
     "logo": null
   },
   "sistema": {
     "version": "1.0.0",
-    "fecha_instalacion": "2025-01-01",
+    "fecha_instalacion": "2026-02-05",
     "tema": "claro",
     "idioma": "es"
   }

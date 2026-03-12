@@ -1,4 +1,2100 @@
 {
-  "recargas": [],
-  "operadoras": ["Telcel", "AT&T", "Movistar", "Unefon", "Virgin Mobile", "Bait", "Flash Mobile"]
+  "recargas": [
+    {
+      "id": "r000001",
+      "fecha": "2026-02-10",
+      "hora": "14:12:21",
+      "telefono": "8186748329",
+      "operadora": "Bait",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000002",
+      "fecha": "2026-02-10",
+      "hora": "19:27:04",
+      "telefono": "5536424359",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000003",
+      "fecha": "2026-02-10",
+      "hora": "08:30:27",
+      "telefono": "8711322438",
+      "operadora": "AT&T",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000004",
+      "fecha": "2026-02-11",
+      "hora": "15:15:21",
+      "telefono": "8711730585",
+      "operadora": "Bait",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000005",
+      "fecha": "2026-02-11",
+      "hora": "09:49:38",
+      "telefono": "8686885843",
+      "operadora": "Bait",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000006",
+      "fecha": "2026-02-11",
+      "hora": "09:03:58",
+      "telefono": "8160653117",
+      "operadora": "Telcel",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000007",
+      "fecha": "2026-02-11",
+      "hora": "20:08:03",
+      "telefono": "8716931328",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000008",
+      "fecha": "2026-02-12",
+      "hora": "16:03:18",
+      "telefono": "8716119808",
+      "operadora": "AT&T",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000009",
+      "fecha": "2026-02-12",
+      "hora": "11:55:38",
+      "telefono": "8719854666",
+      "operadora": "Movistar",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000010",
+      "fecha": "2026-02-12",
+      "hora": "20:27:56",
+      "telefono": "8689311171",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000011",
+      "fecha": "2026-02-13",
+      "hora": "11:06:06",
+      "telefono": "8189883050",
+      "operadora": "Movistar",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000012",
+      "fecha": "2026-02-13",
+      "hora": "17:08:40",
+      "telefono": "8684439813",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000013",
+      "fecha": "2026-02-13",
+      "hora": "10:15:08",
+      "telefono": "8711591508",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000014",
+      "fecha": "2026-02-13",
+      "hora": "16:41:48",
+      "telefono": "3351766978",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000015",
+      "fecha": "2026-02-13",
+      "hora": "10:30:19",
+      "telefono": "8685602330",
+      "operadora": "Telcel",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000016",
+      "fecha": "2026-02-13",
+      "hora": "08:15:32",
+      "telefono": "8718508809",
+      "operadora": "Bait",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000017",
+      "fecha": "2026-02-13",
+      "hora": "11:40:58",
+      "telefono": "5519180999",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000018",
+      "fecha": "2026-02-13",
+      "hora": "17:44:21",
+      "telefono": "8718763297",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000019",
+      "fecha": "2026-02-13",
+      "hora": "14:21:10",
+      "telefono": "8170975394",
+      "operadora": "Bait",
+      "monto": 150.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000020",
+      "fecha": "2026-02-13",
+      "hora": "11:58:00",
+      "telefono": "8673993392",
+      "operadora": "Movistar",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000021",
+      "fecha": "2026-02-13",
+      "hora": "11:30:47",
+      "telefono": "8715449520",
+      "operadora": "Bait",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000022",
+      "fecha": "2026-02-13",
+      "hora": "10:52:00",
+      "telefono": "3311327694",
+      "operadora": "Telcel",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000023",
+      "fecha": "2026-02-14",
+      "hora": "18:37:58",
+      "telefono": "8715830620",
+      "operadora": "Telcel",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000024",
+      "fecha": "2026-02-14",
+      "hora": "12:11:14",
+      "telefono": "3333392072",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000025",
+      "fecha": "2026-02-14",
+      "hora": "11:01:11",
+      "telefono": "8714513667",
+      "operadora": "Unefon",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000026",
+      "fecha": "2026-02-14",
+      "hora": "14:41:50",
+      "telefono": "8155417034",
+      "operadora": "Unefon",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000027",
+      "fecha": "2026-02-14",
+      "hora": "13:51:23",
+      "telefono": "8673299952",
+      "operadora": "Unefon",
+      "monto": 200.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000028",
+      "fecha": "2026-02-14",
+      "hora": "19:04:07",
+      "telefono": "5527554964",
+      "operadora": "Bait",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000029",
+      "fecha": "2026-02-15",
+      "hora": "14:40:15",
+      "telefono": "8192681879",
+      "operadora": "AT&T",
+      "monto": 150.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000030",
+      "fecha": "2026-02-15",
+      "hora": "20:09:20",
+      "telefono": "5517148298",
+      "operadora": "Movistar",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000031",
+      "fecha": "2026-02-15",
+      "hora": "16:37:56",
+      "telefono": "6143808339",
+      "operadora": "Movistar",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000032",
+      "fecha": "2026-02-15",
+      "hora": "10:32:24",
+      "telefono": "8719658003",
+      "operadora": "Bait",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000033",
+      "fecha": "2026-02-15",
+      "hora": "10:20:45",
+      "telefono": "3380528150",
+      "operadora": "Movistar",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000034",
+      "fecha": "2026-02-15",
+      "hora": "15:17:37",
+      "telefono": "6149564508",
+      "operadora": "Unefon",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000035",
+      "fecha": "2026-02-15",
+      "hora": "11:14:57",
+      "telefono": "5570677159",
+      "operadora": "Bait",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000036",
+      "fecha": "2026-02-15",
+      "hora": "14:56:24",
+      "telefono": "8683110027",
+      "operadora": "Unefon",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000037",
+      "fecha": "2026-02-15",
+      "hora": "10:48:05",
+      "telefono": "3369660493",
+      "operadora": "AT&T",
+      "monto": 30.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000038",
+      "fecha": "2026-02-15",
+      "hora": "15:32:39",
+      "telefono": "3367190488",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000039",
+      "fecha": "2026-02-15",
+      "hora": "20:31:20",
+      "telefono": "3361320957",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000040",
+      "fecha": "2026-02-15",
+      "hora": "18:04:22",
+      "telefono": "8149529512",
+      "operadora": "Bait",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000041",
+      "fecha": "2026-02-16",
+      "hora": "09:07:04",
+      "telefono": "3315138040",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000042",
+      "fecha": "2026-02-16",
+      "hora": "12:19:47",
+      "telefono": "8714683800",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000043",
+      "fecha": "2026-02-16",
+      "hora": "20:45:47",
+      "telefono": "8684504900",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000044",
+      "fecha": "2026-02-16",
+      "hora": "20:25:25",
+      "telefono": "8718784007",
+      "operadora": "Bait",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000045",
+      "fecha": "2026-02-16",
+      "hora": "14:14:14",
+      "telefono": "8673816894",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000046",
+      "fecha": "2026-02-16",
+      "hora": "19:52:29",
+      "telefono": "3321526062",
+      "operadora": "Telcel",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000047",
+      "fecha": "2026-02-17",
+      "hora": "08:23:08",
+      "telefono": "8682722626",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000048",
+      "fecha": "2026-02-17",
+      "hora": "20:42:53",
+      "telefono": "3355610169",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000049",
+      "fecha": "2026-02-17",
+      "hora": "20:49:44",
+      "telefono": "8685021662",
+      "operadora": "Telcel",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000050",
+      "fecha": "2026-02-17",
+      "hora": "10:09:21",
+      "telefono": "8689453560",
+      "operadora": "Bait",
+      "monto": 150.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000051",
+      "fecha": "2026-02-17",
+      "hora": "14:13:25",
+      "telefono": "8181738111",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000052",
+      "fecha": "2026-02-17",
+      "hora": "17:28:40",
+      "telefono": "3322514663",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000053",
+      "fecha": "2026-02-17",
+      "hora": "08:52:44",
+      "telefono": "8687558057",
+      "operadora": "Telcel",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000054",
+      "fecha": "2026-02-17",
+      "hora": "12:13:14",
+      "telefono": "3398525972",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000055",
+      "fecha": "2026-02-17",
+      "hora": "16:00:10",
+      "telefono": "3365144861",
+      "operadora": "Telcel",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000056",
+      "fecha": "2026-02-17",
+      "hora": "16:26:30",
+      "telefono": "8671922921",
+      "operadora": "Telcel",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000057",
+      "fecha": "2026-02-17",
+      "hora": "10:55:13",
+      "telefono": "3368008992",
+      "operadora": "Bait",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000058",
+      "fecha": "2026-02-18",
+      "hora": "11:32:45",
+      "telefono": "8677160009",
+      "operadora": "Telcel",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000059",
+      "fecha": "2026-02-18",
+      "hora": "15:04:52",
+      "telefono": "6149118140",
+      "operadora": "Bait",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000060",
+      "fecha": "2026-02-18",
+      "hora": "15:29:36",
+      "telefono": "8122227594",
+      "operadora": "Telcel",
+      "monto": 150.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000061",
+      "fecha": "2026-02-18",
+      "hora": "13:44:53",
+      "telefono": "8674992289",
+      "operadora": "Telcel",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000062",
+      "fecha": "2026-02-18",
+      "hora": "14:15:11",
+      "telefono": "8686799234",
+      "operadora": "AT&T",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000063",
+      "fecha": "2026-02-18",
+      "hora": "19:36:06",
+      "telefono": "6141586054",
+      "operadora": "Telcel",
+      "monto": 150.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000064",
+      "fecha": "2026-02-18",
+      "hora": "18:34:18",
+      "telefono": "8671895820",
+      "operadora": "Movistar",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000065",
+      "fecha": "2026-02-18",
+      "hora": "15:26:48",
+      "telefono": "8682627129",
+      "operadora": "Virgin Mobile",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000066",
+      "fecha": "2026-02-18",
+      "hora": "16:49:49",
+      "telefono": "3365042162",
+      "operadora": "AT&T",
+      "monto": 30.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000067",
+      "fecha": "2026-02-18",
+      "hora": "15:01:04",
+      "telefono": "8677199570",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000068",
+      "fecha": "2026-02-18",
+      "hora": "14:02:00",
+      "telefono": "3325392453",
+      "operadora": "Movistar",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000069",
+      "fecha": "2026-02-18",
+      "hora": "15:29:04",
+      "telefono": "8183608832",
+      "operadora": "Movistar",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000070",
+      "fecha": "2026-02-19",
+      "hora": "10:10:53",
+      "telefono": "8191468625",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000071",
+      "fecha": "2026-02-19",
+      "hora": "10:04:42",
+      "telefono": "8711150466",
+      "operadora": "Movistar",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000072",
+      "fecha": "2026-02-19",
+      "hora": "10:13:45",
+      "telefono": "8181443936",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000073",
+      "fecha": "2026-02-19",
+      "hora": "14:44:19",
+      "telefono": "6141703505",
+      "operadora": "AT&T",
+      "monto": 20.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000074",
+      "fecha": "2026-02-19",
+      "hora": "20:12:59",
+      "telefono": "5560283960",
+      "operadora": "Unefon",
+      "monto": 30.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000075",
+      "fecha": "2026-02-19",
+      "hora": "14:01:00",
+      "telefono": "3335790180",
+      "operadora": "Movistar",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000076",
+      "fecha": "2026-02-19",
+      "hora": "20:53:53",
+      "telefono": "8673253285",
+      "operadora": "Movistar",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000077",
+      "fecha": "2026-02-20",
+      "hora": "18:12:39",
+      "telefono": "5582706099",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000078",
+      "fecha": "2026-02-20",
+      "hora": "11:06:22",
+      "telefono": "3333303091",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000079",
+      "fecha": "2026-02-20",
+      "hora": "14:13:29",
+      "telefono": "5518860555",
+      "operadora": "Movistar",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000080",
+      "fecha": "2026-02-20",
+      "hora": "08:04:56",
+      "telefono": "5565176483",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000081",
+      "fecha": "2026-02-20",
+      "hora": "19:34:50",
+      "telefono": "8718639741",
+      "operadora": "Telcel",
+      "monto": 200.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000082",
+      "fecha": "2026-02-20",
+      "hora": "18:44:24",
+      "telefono": "8672784175",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000083",
+      "fecha": "2026-02-20",
+      "hora": "18:30:04",
+      "telefono": "3312368781",
+      "operadora": "Movistar",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000084",
+      "fecha": "2026-02-20",
+      "hora": "16:40:47",
+      "telefono": "5577567894",
+      "operadora": "AT&T",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000085",
+      "fecha": "2026-02-20",
+      "hora": "08:39:48",
+      "telefono": "8151452961",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000086",
+      "fecha": "2026-02-20",
+      "hora": "17:05:03",
+      "telefono": "5560267710",
+      "operadora": "AT&T",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000087",
+      "fecha": "2026-02-20",
+      "hora": "11:41:02",
+      "telefono": "5590272292",
+      "operadora": "Virgin Mobile",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000088",
+      "fecha": "2026-02-21",
+      "hora": "16:50:26",
+      "telefono": "8674871578",
+      "operadora": "Bait",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000089",
+      "fecha": "2026-02-21",
+      "hora": "13:15:13",
+      "telefono": "8681725768",
+      "operadora": "Unefon",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000090",
+      "fecha": "2026-02-21",
+      "hora": "20:43:44",
+      "telefono": "8673985593",
+      "operadora": "Movistar",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000091",
+      "fecha": "2026-02-22",
+      "hora": "09:55:31",
+      "telefono": "8135832275",
+      "operadora": "Telcel",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000092",
+      "fecha": "2026-02-22",
+      "hora": "10:05:11",
+      "telefono": "8688366501",
+      "operadora": "Bait",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000093",
+      "fecha": "2026-02-22",
+      "hora": "16:05:27",
+      "telefono": "8677268964",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000094",
+      "fecha": "2026-02-23",
+      "hora": "12:18:36",
+      "telefono": "6149530929",
+      "operadora": "Telcel",
+      "monto": 150.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000095",
+      "fecha": "2026-02-23",
+      "hora": "09:23:25",
+      "telefono": "6143251717",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000096",
+      "fecha": "2026-02-23",
+      "hora": "20:09:52",
+      "telefono": "8717469304",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000097",
+      "fecha": "2026-02-23",
+      "hora": "20:58:58",
+      "telefono": "3389884158",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000098",
+      "fecha": "2026-02-23",
+      "hora": "12:24:29",
+      "telefono": "3370881578",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000099",
+      "fecha": "2026-02-23",
+      "hora": "09:21:08",
+      "telefono": "8677298280",
+      "operadora": "Telcel",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000100",
+      "fecha": "2026-02-24",
+      "hora": "15:25:59",
+      "telefono": "6146296898",
+      "operadora": "Virgin Mobile",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000101",
+      "fecha": "2026-02-24",
+      "hora": "12:41:37",
+      "telefono": "8164866540",
+      "operadora": "Bait",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000102",
+      "fecha": "2026-02-24",
+      "hora": "14:59:36",
+      "telefono": "5536068867",
+      "operadora": "Bait",
+      "monto": 200.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000103",
+      "fecha": "2026-02-24",
+      "hora": "16:45:31",
+      "telefono": "8675941635",
+      "operadora": "Movistar",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000104",
+      "fecha": "2026-02-24",
+      "hora": "19:15:15",
+      "telefono": "6141463152",
+      "operadora": "Unefon",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000105",
+      "fecha": "2026-02-24",
+      "hora": "19:42:41",
+      "telefono": "5545075212",
+      "operadora": "Movistar",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000106",
+      "fecha": "2026-02-24",
+      "hora": "12:15:38",
+      "telefono": "8689893329",
+      "operadora": "Bait",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000107",
+      "fecha": "2026-02-24",
+      "hora": "18:45:58",
+      "telefono": "6146337395",
+      "operadora": "Movistar",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000108",
+      "fecha": "2026-02-25",
+      "hora": "10:53:27",
+      "telefono": "3350563223",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000109",
+      "fecha": "2026-02-25",
+      "hora": "17:19:46",
+      "telefono": "6142192839",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000110",
+      "fecha": "2026-02-25",
+      "hora": "10:17:47",
+      "telefono": "5563414658",
+      "operadora": "Movistar",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000111",
+      "fecha": "2026-02-25",
+      "hora": "15:00:06",
+      "telefono": "8166081482",
+      "operadora": "AT&T",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000112",
+      "fecha": "2026-02-25",
+      "hora": "10:11:23",
+      "telefono": "5528029744",
+      "operadora": "Telcel",
+      "monto": 30.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000113",
+      "fecha": "2026-02-25",
+      "hora": "15:36:52",
+      "telefono": "5534915916",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000114",
+      "fecha": "2026-02-25",
+      "hora": "12:57:55",
+      "telefono": "6146915383",
+      "operadora": "Movistar",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000115",
+      "fecha": "2026-02-25",
+      "hora": "09:18:05",
+      "telefono": "6142673447",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000116",
+      "fecha": "2026-02-25",
+      "hora": "15:31:43",
+      "telefono": "8712353037",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000117",
+      "fecha": "2026-02-26",
+      "hora": "09:13:33",
+      "telefono": "8711097468",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000118",
+      "fecha": "2026-02-26",
+      "hora": "15:30:48",
+      "telefono": "3391117376",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000119",
+      "fecha": "2026-02-26",
+      "hora": "13:52:15",
+      "telefono": "3399265296",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000120",
+      "fecha": "2026-02-27",
+      "hora": "08:29:55",
+      "telefono": "8676392980",
+      "operadora": "Movistar",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000121",
+      "fecha": "2026-02-27",
+      "hora": "08:38:07",
+      "telefono": "8718121986",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000122",
+      "fecha": "2026-02-27",
+      "hora": "13:28:39",
+      "telefono": "8679843285",
+      "operadora": "Bait",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000123",
+      "fecha": "2026-02-27",
+      "hora": "08:40:52",
+      "telefono": "3312232081",
+      "operadora": "Movistar",
+      "monto": 150.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000124",
+      "fecha": "2026-02-28",
+      "hora": "15:25:47",
+      "telefono": "8682092119",
+      "operadora": "Telcel",
+      "monto": 200.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000125",
+      "fecha": "2026-02-28",
+      "hora": "18:54:44",
+      "telefono": "8161654839",
+      "operadora": "Telcel",
+      "monto": 30.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000126",
+      "fecha": "2026-02-28",
+      "hora": "16:56:36",
+      "telefono": "8717773118",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000127",
+      "fecha": "2026-02-28",
+      "hora": "12:53:43",
+      "telefono": "8687265324",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000128",
+      "fecha": "2026-02-28",
+      "hora": "15:42:34",
+      "telefono": "5542662689",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000129",
+      "fecha": "2026-02-28",
+      "hora": "09:27:45",
+      "telefono": "8131506414",
+      "operadora": "Unefon",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000130",
+      "fecha": "2026-02-28",
+      "hora": "20:17:14",
+      "telefono": "8674457831",
+      "operadora": "Movistar",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000131",
+      "fecha": "2026-02-28",
+      "hora": "18:08:59",
+      "telefono": "8689503339",
+      "operadora": "Movistar",
+      "monto": 20.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000132",
+      "fecha": "2026-02-28",
+      "hora": "11:59:36",
+      "telefono": "8719062182",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000133",
+      "fecha": "2026-02-28",
+      "hora": "18:41:50",
+      "telefono": "8686864808",
+      "operadora": "Bait",
+      "monto": 30.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000134",
+      "fecha": "2026-02-28",
+      "hora": "12:05:07",
+      "telefono": "8155665951",
+      "operadora": "Movistar",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000135",
+      "fecha": "2026-02-28",
+      "hora": "17:23:08",
+      "telefono": "8715206011",
+      "operadora": "Virgin Mobile",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000136",
+      "fecha": "2026-03-01",
+      "hora": "11:54:24",
+      "telefono": "6145290175",
+      "operadora": "Bait",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000137",
+      "fecha": "2026-03-01",
+      "hora": "16:42:38",
+      "telefono": "8683981533",
+      "operadora": "Telcel",
+      "monto": 20.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000138",
+      "fecha": "2026-03-01",
+      "hora": "13:09:52",
+      "telefono": "3339380829",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000139",
+      "fecha": "2026-03-01",
+      "hora": "10:47:42",
+      "telefono": "8711460955",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000140",
+      "fecha": "2026-03-01",
+      "hora": "12:54:45",
+      "telefono": "8687419402",
+      "operadora": "Movistar",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000141",
+      "fecha": "2026-03-01",
+      "hora": "19:24:03",
+      "telefono": "8715471390",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000142",
+      "fecha": "2026-03-01",
+      "hora": "19:47:03",
+      "telefono": "8713402768",
+      "operadora": "Bait",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000143",
+      "fecha": "2026-03-01",
+      "hora": "18:58:54",
+      "telefono": "5512894515",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000144",
+      "fecha": "2026-03-01",
+      "hora": "13:48:25",
+      "telefono": "6141963994",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000145",
+      "fecha": "2026-03-01",
+      "hora": "19:54:35",
+      "telefono": "6142306201",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000146",
+      "fecha": "2026-03-01",
+      "hora": "19:19:29",
+      "telefono": "8673197069",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000147",
+      "fecha": "2026-03-02",
+      "hora": "11:51:47",
+      "telefono": "5597407684",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000148",
+      "fecha": "2026-03-02",
+      "hora": "18:50:54",
+      "telefono": "5560540462",
+      "operadora": "Virgin Mobile",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000149",
+      "fecha": "2026-03-02",
+      "hora": "08:06:22",
+      "telefono": "6143410991",
+      "operadora": "Unefon",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000150",
+      "fecha": "2026-03-02",
+      "hora": "17:27:09",
+      "telefono": "8676422315",
+      "operadora": "Telcel",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000151",
+      "fecha": "2026-03-02",
+      "hora": "15:19:44",
+      "telefono": "8683315081",
+      "operadora": "Movistar",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000152",
+      "fecha": "2026-03-02",
+      "hora": "20:29:55",
+      "telefono": "8719728325",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000153",
+      "fecha": "2026-03-03",
+      "hora": "09:07:31",
+      "telefono": "8679976377",
+      "operadora": "Unefon",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000154",
+      "fecha": "2026-03-03",
+      "hora": "12:44:47",
+      "telefono": "8189574873",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000155",
+      "fecha": "2026-03-03",
+      "hora": "12:36:08",
+      "telefono": "8153651494",
+      "operadora": "Telcel",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000156",
+      "fecha": "2026-03-03",
+      "hora": "14:52:44",
+      "telefono": "8162854477",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000157",
+      "fecha": "2026-03-04",
+      "hora": "16:45:52",
+      "telefono": "8719746978",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000158",
+      "fecha": "2026-03-04",
+      "hora": "10:55:38",
+      "telefono": "8673415081",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000159",
+      "fecha": "2026-03-04",
+      "hora": "09:02:08",
+      "telefono": "8683767970",
+      "operadora": "Movistar",
+      "monto": 20.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000160",
+      "fecha": "2026-03-04",
+      "hora": "20:02:05",
+      "telefono": "8177934076",
+      "operadora": "Telcel",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000161",
+      "fecha": "2026-03-04",
+      "hora": "14:42:00",
+      "telefono": "5550345846",
+      "operadora": "Telcel",
+      "monto": 200.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000162",
+      "fecha": "2026-03-04",
+      "hora": "18:34:28",
+      "telefono": "5587453221",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000163",
+      "fecha": "2026-03-04",
+      "hora": "17:34:32",
+      "telefono": "5523288780",
+      "operadora": "Movistar",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000164",
+      "fecha": "2026-03-04",
+      "hora": "11:09:19",
+      "telefono": "8713888539",
+      "operadora": "Virgin Mobile",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000165",
+      "fecha": "2026-03-04",
+      "hora": "17:22:17",
+      "telefono": "5593525402",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000166",
+      "fecha": "2026-03-04",
+      "hora": "14:41:57",
+      "telefono": "5563695060",
+      "operadora": "AT&T",
+      "monto": 200.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000167",
+      "fecha": "2026-03-04",
+      "hora": "19:09:34",
+      "telefono": "5519470140",
+      "operadora": "Movistar",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000168",
+      "fecha": "2026-03-04",
+      "hora": "19:23:36",
+      "telefono": "8679694236",
+      "operadora": "Bait",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000169",
+      "fecha": "2026-03-05",
+      "hora": "14:01:38",
+      "telefono": "5520405175",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000170",
+      "fecha": "2026-03-05",
+      "hora": "09:21:40",
+      "telefono": "8158696806",
+      "operadora": "Unefon",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000171",
+      "fecha": "2026-03-05",
+      "hora": "20:14:17",
+      "telefono": "8123146204",
+      "operadora": "Telcel",
+      "monto": 200.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000172",
+      "fecha": "2026-03-05",
+      "hora": "09:50:59",
+      "telefono": "8133586265",
+      "operadora": "AT&T",
+      "monto": 150.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000173",
+      "fecha": "2026-03-05",
+      "hora": "09:33:22",
+      "telefono": "8678679375",
+      "operadora": "Bait",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000174",
+      "fecha": "2026-03-05",
+      "hora": "08:10:20",
+      "telefono": "8716228630",
+      "operadora": "Telcel",
+      "monto": 150.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000175",
+      "fecha": "2026-03-05",
+      "hora": "15:37:08",
+      "telefono": "3311274728",
+      "operadora": "Movistar",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000176",
+      "fecha": "2026-03-05",
+      "hora": "10:24:36",
+      "telefono": "8674588578",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000177",
+      "fecha": "2026-03-05",
+      "hora": "19:49:15",
+      "telefono": "8679169873",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000178",
+      "fecha": "2026-03-06",
+      "hora": "12:17:27",
+      "telefono": "8684070419",
+      "operadora": "Telcel",
+      "monto": 150.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000179",
+      "fecha": "2026-03-06",
+      "hora": "14:49:20",
+      "telefono": "8712209846",
+      "operadora": "Movistar",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000180",
+      "fecha": "2026-03-06",
+      "hora": "09:10:36",
+      "telefono": "8121352822",
+      "operadora": "Movistar",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000181",
+      "fecha": "2026-03-06",
+      "hora": "20:55:00",
+      "telefono": "6147827419",
+      "operadora": "Unefon",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000182",
+      "fecha": "2026-03-06",
+      "hora": "16:43:43",
+      "telefono": "8682673582",
+      "operadora": "AT&T",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000183",
+      "fecha": "2026-03-06",
+      "hora": "19:27:44",
+      "telefono": "8685631325",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000184",
+      "fecha": "2026-03-06",
+      "hora": "17:28:10",
+      "telefono": "8678026518",
+      "operadora": "Unefon",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000185",
+      "fecha": "2026-03-06",
+      "hora": "10:32:22",
+      "telefono": "8166736822",
+      "operadora": "AT&T",
+      "monto": 30.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000186",
+      "fecha": "2026-03-06",
+      "hora": "13:58:43",
+      "telefono": "5582359410",
+      "operadora": "Bait",
+      "monto": 150.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000187",
+      "fecha": "2026-03-06",
+      "hora": "12:30:18",
+      "telefono": "3338597227",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000188",
+      "fecha": "2026-03-06",
+      "hora": "11:59:19",
+      "telefono": "8677919313",
+      "operadora": "Bait",
+      "monto": 20.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000189",
+      "fecha": "2026-03-07",
+      "hora": "08:22:00",
+      "telefono": "8687178765",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000190",
+      "fecha": "2026-03-07",
+      "hora": "13:56:46",
+      "telefono": "5563964665",
+      "operadora": "Telcel",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000191",
+      "fecha": "2026-03-07",
+      "hora": "11:05:33",
+      "telefono": "8683063069",
+      "operadora": "AT&T",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000192",
+      "fecha": "2026-03-07",
+      "hora": "10:49:42",
+      "telefono": "3340345988",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000193",
+      "fecha": "2026-03-07",
+      "hora": "14:57:11",
+      "telefono": "8684616921",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000194",
+      "fecha": "2026-03-07",
+      "hora": "10:08:22",
+      "telefono": "8676824514",
+      "operadora": "Telcel",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000195",
+      "fecha": "2026-03-07",
+      "hora": "09:12:18",
+      "telefono": "8127942270",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000196",
+      "fecha": "2026-03-07",
+      "hora": "10:42:12",
+      "telefono": "6149928738",
+      "operadora": "Virgin Mobile",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000197",
+      "fecha": "2026-03-07",
+      "hora": "16:31:51",
+      "telefono": "8672710390",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000198",
+      "fecha": "2026-03-07",
+      "hora": "16:46:59",
+      "telefono": "8676219036",
+      "operadora": "Telcel",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000199",
+      "fecha": "2026-03-08",
+      "hora": "08:49:43",
+      "telefono": "5516984668",
+      "operadora": "Movistar",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000200",
+      "fecha": "2026-03-08",
+      "hora": "14:30:18",
+      "telefono": "3375220319",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000201",
+      "fecha": "2026-03-08",
+      "hora": "19:32:11",
+      "telefono": "5547733815",
+      "operadora": "Bait",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000202",
+      "fecha": "2026-03-08",
+      "hora": "18:52:27",
+      "telefono": "5573604818",
+      "operadora": "Movistar",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000203",
+      "fecha": "2026-03-08",
+      "hora": "11:54:37",
+      "telefono": "8679515808",
+      "operadora": "Telcel",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000204",
+      "fecha": "2026-03-08",
+      "hora": "08:17:12",
+      "telefono": "5567217417",
+      "operadora": "Telcel",
+      "monto": 30.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000205",
+      "fecha": "2026-03-08",
+      "hora": "14:26:33",
+      "telefono": "3395001425",
+      "operadora": "Virgin Mobile",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000206",
+      "fecha": "2026-03-08",
+      "hora": "15:03:32",
+      "telefono": "6149641919",
+      "operadora": "Telcel",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000207",
+      "fecha": "2026-03-08",
+      "hora": "12:22:45",
+      "telefono": "6144314756",
+      "operadora": "Telcel",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000208",
+      "fecha": "2026-03-08",
+      "hora": "08:03:42",
+      "telefono": "8675316973",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000209",
+      "fecha": "2026-03-08",
+      "hora": "14:11:16",
+      "telefono": "6145879904",
+      "operadora": "Telcel",
+      "monto": 30.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000210",
+      "fecha": "2026-03-09",
+      "hora": "13:23:47",
+      "telefono": "8715850426",
+      "operadora": "Movistar",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000211",
+      "fecha": "2026-03-09",
+      "hora": "11:41:17",
+      "telefono": "5588427071",
+      "operadora": "Telcel",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000212",
+      "fecha": "2026-03-09",
+      "hora": "18:47:38",
+      "telefono": "8115508152",
+      "operadora": "AT&T",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000213",
+      "fecha": "2026-03-09",
+      "hora": "11:45:28",
+      "telefono": "8120050169",
+      "operadora": "Unefon",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000214",
+      "fecha": "2026-03-09",
+      "hora": "19:30:48",
+      "telefono": "5581612882",
+      "operadora": "Movistar",
+      "monto": 20.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000215",
+      "fecha": "2026-03-10",
+      "hora": "20:54:54",
+      "telefono": "8685661912",
+      "operadora": "Bait",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000216",
+      "fecha": "2026-03-10",
+      "hora": "14:04:30",
+      "telefono": "6148029824",
+      "operadora": "Unefon",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000217",
+      "fecha": "2026-03-10",
+      "hora": "10:38:17",
+      "telefono": "8672730526",
+      "operadora": "Telcel",
+      "monto": 200.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000218",
+      "fecha": "2026-03-10",
+      "hora": "20:44:12",
+      "telefono": "8676335071",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000219",
+      "fecha": "2026-03-10",
+      "hora": "10:28:48",
+      "telefono": "8686155979",
+      "operadora": "AT&T",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000220",
+      "fecha": "2026-03-10",
+      "hora": "11:11:00",
+      "telefono": "5586758847",
+      "operadora": "Telcel",
+      "monto": 100.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000221",
+      "fecha": "2026-03-10",
+      "hora": "16:45:46",
+      "telefono": "8684474019",
+      "operadora": "Telcel",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000222",
+      "fecha": "2026-03-11",
+      "hora": "08:34:15",
+      "telefono": "3315246661",
+      "operadora": "Movistar",
+      "monto": 200.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000223",
+      "fecha": "2026-03-11",
+      "hora": "10:17:55",
+      "telefono": "8711691489",
+      "operadora": "Movistar",
+      "monto": 30.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000224",
+      "fecha": "2026-03-11",
+      "hora": "16:07:00",
+      "telefono": "8675663554",
+      "operadora": "Movistar",
+      "monto": 200.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000225",
+      "fecha": "2026-03-11",
+      "hora": "09:45:56",
+      "telefono": "8684543860",
+      "operadora": "Movistar",
+      "monto": 50.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000226",
+      "fecha": "2026-03-11",
+      "hora": "13:03:40",
+      "telefono": "8711139696",
+      "operadora": "Bait",
+      "monto": 30.0,
+      "usuario_id": "u000002"
+    },
+    {
+      "id": "r000227",
+      "fecha": "2026-03-11",
+      "hora": "10:16:01",
+      "telefono": "8689822367",
+      "operadora": "Virgin Mobile",
+      "monto": 100.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000228",
+      "fecha": "2026-03-12",
+      "hora": "12:35:00",
+      "telefono": "3394051119",
+      "operadora": "Telcel",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000229",
+      "fecha": "2026-03-12",
+      "hora": "09:37:00",
+      "telefono": "3346076853",
+      "operadora": "Movistar",
+      "monto": 150.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000230",
+      "fecha": "2026-03-12",
+      "hora": "11:14:00",
+      "telefono": "6143088984",
+      "operadora": "Movistar",
+      "monto": 50.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000231",
+      "fecha": "2026-03-12",
+      "hora": "08:31:00",
+      "telefono": "5574291216",
+      "operadora": "Telcel",
+      "monto": 30.0,
+      "usuario_id": "u000001"
+    },
+    {
+      "id": "r000232",
+      "fecha": "2026-03-12",
+      "hora": "12:31:00",
+      "telefono": "5535348349",
+      "operadora": "Unefon",
+      "monto": 30.0,
+      "usuario_id": "u000001"
+    }
+  ],
+  "operadoras": [
+    "Telcel",
+    "AT&T",
+    "Movistar",
+    "Bait",
+    "Unefon",
+    "Virgin Mobile"
+  ]
 }

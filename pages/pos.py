@@ -4,6 +4,27 @@ from modules.ventas import registrar_venta
 from modules.auth import usuario_actual
 from utils.db import formato_moneda
 
+
+def _agregar_al_carrito(p):
+    for item in st.session_state.carrito:
+        if item["producto_id"] == p["id"]:
+            if item["cantidad"] < p["stock"]:
+                item["cantidad"] += 1
+                item["subtotal"] = round(item["cantidad"] * item["precio_unitario"], 2)
+            else:
+                st.warning(f"Stock máximo alcanzado ({p['stock']})")
+            return
+    if p["stock"] > 0:
+        st.session_state.carrito.append({
+            "producto_id": p["id"],
+            "nombre": p["nombre"],
+            "cantidad": 1,
+            "precio_unitario": p["precio_venta"],
+            "subtotal": p["precio_venta"]
+        })
+    st.rerun()
+
+
 st.markdown("""
 <div class="page-header">
     <span style="font-size:2rem;">🛒</span>
@@ -69,26 +90,6 @@ with col_busq:
                 if st.button("➕", key=f"all_{p['id']}", disabled=disabled):
                     _agregar_al_carrito(p)
             st.divider()
-
-
-def _agregar_al_carrito(p):
-    for item in st.session_state.carrito:
-        if item["producto_id"] == p["id"]:
-            if item["cantidad"] < p["stock"]:
-                item["cantidad"] += 1
-                item["subtotal"] = round(item["cantidad"] * item["precio_unitario"], 2)
-            else:
-                st.warning(f"Stock máximo alcanzado ({p['stock']})")
-            return
-    if p["stock"] > 0:
-        st.session_state.carrito.append({
-            "producto_id": p["id"],
-            "nombre": p["nombre"],
-            "cantidad": 1,
-            "precio_unitario": p["precio_venta"],
-            "subtotal": p["precio_venta"]
-        })
-    st.rerun()
 
 
 # ── Panel de carrito ──────────────────────────────────────────────────────────
